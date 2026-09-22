@@ -1,0 +1,29 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs, databases, and exports that may contain sensitive data
+*.log
+*.db
+*.sqlite
+*.sqlite3
+exports/
+uploads/
+
+# Common generated output
+node_modules/
+dist/
+build/
+coverage/

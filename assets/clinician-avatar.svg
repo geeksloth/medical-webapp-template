@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Generic clinician avatar</title>
+  <rect width="160" height="160" rx="80" fill="#eef5f5"/>
+  <circle cx="80" cy="57" r="29" fill="#6e7786"/>
+  <path d="M29 145c5-33 24-50 51-50s46 17 51 50" fill="#6e7786"/>
+  <path d="M73 108h14v29H73zM65 116h30v13H65z" fill="#fff"/>
+</svg>
